@@ -1,5 +1,5 @@
 # Challenge_3_Crypto_Arbitrage_Analysis
-This project is an analysis to determine if any arbitrage opportunites existed for Bitcoin on the Bitstamp and Coinbase Exchanges. A small historial sample (2018-01-01:2018-03-31) was used for the analysis. The "Break Down of Analysis" section below will provide more details on the analysis that was performed. For the full analysis please refer to the JupyterLab NoteBook ("crpto_arbitage") attached in the Starter_Code direcotry. 
+This project is an analysis to determine if any arbitrage opportunites existed for Bitcoin on the Bitstamp and Coinbase Exchanges. A small historial sample (2018-01-01:2018-03-31) was used for the analysis. The "Break Down of Analysis" section below will provide more details on the analysis that was performed. For the full analysis please refer to the JupyterLab NoteBook ("crpto_arbitage") attached in the Starter_Code directory. 
 
 Below is a link for more information about Arbitrage:
  
